@@ -168,7 +168,7 @@ Hello! I'm Ritik Sharma, a passionate Full Stack Developer from India with exper
 
 <div align="center">
 
-```javascript
+```
 // 📅 Daily Development Log
 const developer = {
   name: "Ritik Sharma",
@@ -218,3 +218,4 @@ const developer = {
 };
 
 console.log("🚀 Ready to build amazing things!");
+```
